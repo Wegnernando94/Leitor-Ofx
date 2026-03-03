@@ -1,4 +1,4 @@
-📊 ## Financial Reader
+## Financial Reader
 Análise e Extração de Metadados de Arquivos OFX
 O UEX Financial Reader é uma ferramenta de front-end de alta performance projetada para converter arquivos bancários complexos (formato .ofx) em uma interface visual legível, organizada e técnica.
 
